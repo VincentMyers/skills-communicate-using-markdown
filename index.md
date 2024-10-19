@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [X] this is a test
+- [ ] this is a test
+- [ ] this is a test
